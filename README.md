@@ -1,0 +1,1 @@
+Little Adventure is an open source game project, which is going to be developed as a series of onlide videos and tutorials and this is the place, where all the source code is going to be- available for anyone, who is interested in the project.
